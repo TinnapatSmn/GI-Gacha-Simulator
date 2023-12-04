@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1645107899 source:c:\users\naom1\downloads\gachap (4)\gachap\gacha.cpp
+	"gacha.h"
+
+1645107490 c:\users\naom1\downloads\gachap (4)\gachap\gacha.h
+	<iostream>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+
+1645107650 source:c:\users\naom1\downloads\gachap (4)\gachap\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"gacha.h"
+
